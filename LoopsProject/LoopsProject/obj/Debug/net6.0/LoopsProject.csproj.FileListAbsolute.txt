@@ -1,0 +1,15 @@
+E:\Projects\FS_College_Classwork\GDN1009-ITP-Backup\LoopsProject\LoopsProject\bin\Debug\net6.0\LoopsProject.exe
+E:\Projects\FS_College_Classwork\GDN1009-ITP-Backup\LoopsProject\LoopsProject\bin\Debug\net6.0\LoopsProject.deps.json
+E:\Projects\FS_College_Classwork\GDN1009-ITP-Backup\LoopsProject\LoopsProject\bin\Debug\net6.0\LoopsProject.runtimeconfig.json
+E:\Projects\FS_College_Classwork\GDN1009-ITP-Backup\LoopsProject\LoopsProject\bin\Debug\net6.0\LoopsProject.dll
+E:\Projects\FS_College_Classwork\GDN1009-ITP-Backup\LoopsProject\LoopsProject\bin\Debug\net6.0\LoopsProject.pdb
+E:\Projects\FS_College_Classwork\GDN1009-ITP-Backup\LoopsProject\LoopsProject\obj\Debug\net6.0\LoopsProject.csproj.AssemblyReference.cache
+E:\Projects\FS_College_Classwork\GDN1009-ITP-Backup\LoopsProject\LoopsProject\obj\Debug\net6.0\LoopsProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\FS_College_Classwork\GDN1009-ITP-Backup\LoopsProject\LoopsProject\obj\Debug\net6.0\LoopsProject.AssemblyInfoInputs.cache
+E:\Projects\FS_College_Classwork\GDN1009-ITP-Backup\LoopsProject\LoopsProject\obj\Debug\net6.0\LoopsProject.AssemblyInfo.cs
+E:\Projects\FS_College_Classwork\GDN1009-ITP-Backup\LoopsProject\LoopsProject\obj\Debug\net6.0\LoopsProject.csproj.CoreCompileInputs.cache
+E:\Projects\FS_College_Classwork\GDN1009-ITP-Backup\LoopsProject\LoopsProject\obj\Debug\net6.0\LoopsProject.dll
+E:\Projects\FS_College_Classwork\GDN1009-ITP-Backup\LoopsProject\LoopsProject\obj\Debug\net6.0\refint\LoopsProject.dll
+E:\Projects\FS_College_Classwork\GDN1009-ITP-Backup\LoopsProject\LoopsProject\obj\Debug\net6.0\LoopsProject.pdb
+E:\Projects\FS_College_Classwork\GDN1009-ITP-Backup\LoopsProject\LoopsProject\obj\Debug\net6.0\LoopsProject.genruntimeconfig.cache
+E:\Projects\FS_College_Classwork\GDN1009-ITP-Backup\LoopsProject\LoopsProject\obj\Debug\net6.0\ref\LoopsProject.dll

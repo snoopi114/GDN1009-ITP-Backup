@@ -1,0 +1,15 @@
+E:\Projects\FS_College_Classwork\GDN1009-ITP-Backup\ConditionalsProject\ConditionalsProject\bin\Debug\net6.0\ConditionalsProject.exe
+E:\Projects\FS_College_Classwork\GDN1009-ITP-Backup\ConditionalsProject\ConditionalsProject\bin\Debug\net6.0\ConditionalsProject.deps.json
+E:\Projects\FS_College_Classwork\GDN1009-ITP-Backup\ConditionalsProject\ConditionalsProject\bin\Debug\net6.0\ConditionalsProject.runtimeconfig.json
+E:\Projects\FS_College_Classwork\GDN1009-ITP-Backup\ConditionalsProject\ConditionalsProject\bin\Debug\net6.0\ConditionalsProject.dll
+E:\Projects\FS_College_Classwork\GDN1009-ITP-Backup\ConditionalsProject\ConditionalsProject\bin\Debug\net6.0\ConditionalsProject.pdb
+E:\Projects\FS_College_Classwork\GDN1009-ITP-Backup\ConditionalsProject\ConditionalsProject\obj\Debug\net6.0\ConditionalsProject.csproj.AssemblyReference.cache
+E:\Projects\FS_College_Classwork\GDN1009-ITP-Backup\ConditionalsProject\ConditionalsProject\obj\Debug\net6.0\ConditionalsProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\FS_College_Classwork\GDN1009-ITP-Backup\ConditionalsProject\ConditionalsProject\obj\Debug\net6.0\ConditionalsProject.AssemblyInfoInputs.cache
+E:\Projects\FS_College_Classwork\GDN1009-ITP-Backup\ConditionalsProject\ConditionalsProject\obj\Debug\net6.0\ConditionalsProject.AssemblyInfo.cs
+E:\Projects\FS_College_Classwork\GDN1009-ITP-Backup\ConditionalsProject\ConditionalsProject\obj\Debug\net6.0\ConditionalsProject.csproj.CoreCompileInputs.cache
+E:\Projects\FS_College_Classwork\GDN1009-ITP-Backup\ConditionalsProject\ConditionalsProject\obj\Debug\net6.0\ConditionalsProject.dll
+E:\Projects\FS_College_Classwork\GDN1009-ITP-Backup\ConditionalsProject\ConditionalsProject\obj\Debug\net6.0\refint\ConditionalsProject.dll
+E:\Projects\FS_College_Classwork\GDN1009-ITP-Backup\ConditionalsProject\ConditionalsProject\obj\Debug\net6.0\ConditionalsProject.pdb
+E:\Projects\FS_College_Classwork\GDN1009-ITP-Backup\ConditionalsProject\ConditionalsProject\obj\Debug\net6.0\ConditionalsProject.genruntimeconfig.cache
+E:\Projects\FS_College_Classwork\GDN1009-ITP-Backup\ConditionalsProject\ConditionalsProject\obj\Debug\net6.0\ref\ConditionalsProject.dll
